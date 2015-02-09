@@ -10,4 +10,5 @@ printf("substraction of a and b= %d\n", result=a-b);
 printf("multiply of a and b=%d\n", result=a*b);
 printf("devide of a and b=%d\n", result=a/b);
 printf("modulas of a and b = %d",result=a%b);
+printf("equition of a and b = %d",result=a+b+b);
 }
